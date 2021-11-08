@@ -1,0 +1,3 @@
+[submodule "tools/ransomwatch"]
+	path = tools/ransomwatch
+	url = https://github.com/captainGeech42/ransomwatch
