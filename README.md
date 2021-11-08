@@ -5,7 +5,6 @@
 
 
 [![GitHub license](https://img.shields.io/github/license/ocbrollingpaper/infosuxx.com?color=black&style=for-the-badge)](https://github.com/ocbrollingpaper/infosuxx.com/blob/main/LICENSE)
-![Twitter Follow](https://img.shields.io/twitter/follow/marxvolt?color=black&label=My%20twitter&style=for-the-badge)
 
 # Infosuxx.com
 This website is a passion project and exists to provide peeps from TI circles access to information for free.
