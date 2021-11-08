@@ -5,3 +5,4 @@ node_modules
 /package
 .env
 website.7z
+package-lock.json
