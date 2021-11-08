@@ -7,7 +7,7 @@
     section {
         width: 100%;
         display: grid;
-        grid-template-columns: repeat(4, 25%);
+        grid-template-columns: repeat(2, 25%);
     }
     @media (min-width: 768px) {
         section {

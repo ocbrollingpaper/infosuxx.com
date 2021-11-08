@@ -4,9 +4,9 @@
 	}
 </style>
 <script>
-	import Header from "./UI/Header.svelte";
-	import Footer from "./UI/Footer.svelte";
-	import Grid from "./UI/Grid.svelte";
+	import Header from '../src/components/UI/Header.svelte';
+	import Footer from "../src/components/UI/Footer.svelte";
+	import Grid from "../src/components/UI/Grid.svelte";
 
 	const ransoms = [
 		{
