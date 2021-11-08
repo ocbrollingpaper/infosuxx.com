@@ -1,7 +1,6 @@
 <style>
 	main {
 		margin-top: 5rem;
-		padding-bottom: 5rem;
 	}
 </style>
 <script>
@@ -47,36 +46,13 @@
 			Link: "#",
 		}
 	];
-
-	function addRansom() {
-		ransoms.push({
-			id: "1",
-			title: "kkona2",
-			description: "ransom blyat ransom blyat",
-			imageUrl:
-				"https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png",
-			RansomwareGroup: "Revil",
-			Link: "#",
-		});
-	}
-
 </script>
-<main>
+
 <Header />
 
-
-	<form on:submit|preventDefault="{addRansom}">
-		<div class="form-control">
-			<label title="title">title</label>
-			<input type="text" id="title" />
-		</div>
-		<div class="form-control">
-			<label title="RansomwareGroup">Ransomware Group</label>
-			<input type="text" id="RansomwareGroup" />
-		</div>
-		<button>Submit</button>
-	</form>
+<main>
 	<Grid {ransoms}/>
+</main>
 
 <Footer />
-</main>
+

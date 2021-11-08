@@ -2,7 +2,7 @@
     footer {
         position: fixed;
         bottom: 0;
-        height: 4rem;
+        height: 2rem;
 		width: 100%;
         display: flex;
 		justify-content: center;
@@ -19,5 +19,5 @@
 </style>
 
 <footer>
-    <p>this project is developed by mars after getting blackpilled after reading <a href="https://twitter.com/imposecost">@ImposeCost</a> hot takes on ransomware and cybertools</p>
+    <p>this project is developed by mars after getting blackpilled while reading <a href="https://twitter.com/imposecost">@ImposeCost</a> hot takes on ransomware and cybertools</p>
 </footer>
