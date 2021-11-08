@@ -2,12 +2,12 @@
     footer {
         position: fixed;
         bottom: 0;
-        height: 2rem;
+        height: 3rem;
 		width: 100%;
         display: flex;
 		justify-content: center;
 		align-items: center;
-		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+		box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.16);
         background: #1f1f1f;
         left: 0;
     }
