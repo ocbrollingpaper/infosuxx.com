@@ -10,14 +10,13 @@
 This is work in progress.
 # Roadmap
 
-- [ ] 
 - [ ] Develop API
-- [ ] Add ThreatFox IOCs feed (https://threatfox.abuse.ch/)
-- [ ] Add VX-Underground  (https://vx-underground.org/)
-- [ ] Add Tri.age feed (https://www.tria.ge)
-- [ ] Add Greynoise integration (https://greynoise.io/)
+- [ ] Integrate ThreatFox IOCs feed (https://threatfox.abuse.ch/)
+- [ ] Integrate VX-Underground feed (https://vx-underground.org/)
+- [ ] Integrate Tri.age feed (https://www.tria.ge)
+- [ ] Greynoise integration (https://greynoise.io/)
+- [ ] Tweak Ransomwatch
 - [ ] Frontend
-- [ ] 
 ## Authors
 
 - [@ocbrollingpaper](https://www.github.com/ocbrollingpaper)
