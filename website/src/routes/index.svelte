@@ -8,6 +8,7 @@
 </svelte:head>
 
 <section>
+	<h1>COMING SOON</h1>
 </section>
 
 <style>
@@ -21,5 +22,7 @@
 
 	h1 {
 		width: 100%;
+		color: white;
+		font-family: 'Oswald';
 	}
 </style>
