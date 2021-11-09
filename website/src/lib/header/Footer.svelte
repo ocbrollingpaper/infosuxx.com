@@ -6,7 +6,6 @@
 		align-items: center;
         height: 4rem;
 		text-align: center;
-        background-color: #121212;
 	}
 
 	footer a {
@@ -20,7 +19,7 @@
 	}
     p {
         font-family: "Oswald";
-        color: #fff;
+		color: #ffffff;
     }
 </style>
 
