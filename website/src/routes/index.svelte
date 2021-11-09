@@ -1,5 +1,4 @@
 <script context="module">
-
 	export const prerender = true;
 </script>
 
@@ -18,11 +17,5 @@
 		justify-content: center;
 		align-items: left;
 		flex: 1;
-	}
-
-	h1 {
-		width: 100%;
-		color: white;
-		font-family: 'Oswald';
 	}
 </style>
