@@ -1,5 +1,5 @@
 <script>
-	import chartjs from 'chart.js/auto';
+	import chartjs from 'chart.js/auto/auto.js';
 	import { onMount } from 'svelte';
 
 	let chartValues = [154, 4, 3, 4, 2, 3, 2, 4];
