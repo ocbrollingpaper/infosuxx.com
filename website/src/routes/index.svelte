@@ -1,4 +1,5 @@
 <script context="module">
+
 	export const prerender = true;
 </script>
 
@@ -8,7 +9,6 @@
 </svelte:head>
 
 <section>
-	<h1>COMING SOON</h1>
 </section>
 
 <style>
@@ -16,7 +16,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		align-items: center;
+		align-items: left;
 		flex: 1;
 	}
 

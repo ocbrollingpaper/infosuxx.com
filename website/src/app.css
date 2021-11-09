@@ -6,11 +6,12 @@
 	--font-mono: 'Oswald', sans-serif;
 	--pure-white: #ffffff;
 	--primary-color: #bb86fc;
-	--secondary-color: #d0dde9;
+	--secondary-color: #03DAC6;
 	--tertiary-color: #edf0f8;
 	--accent-color: #03DAC6;
-	--heading-color: rgba(0, 0, 0, 0.7);
-	--text-color: #444444;
+	--error-color: #CF6679;
+	--heading-color: rgba(255, 255, 255, 0.7);
+	--text-color: #ffffff;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -50,7 +51,7 @@ p {
 }
 
 a {
-	color: var(--accent-color);
+	color: var(--secondary-color);
 	text-decoration: none;
 }
 
