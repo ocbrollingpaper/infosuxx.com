@@ -11,11 +11,12 @@ This is work in progress.
 # Roadmap
 
 - [ ] Develop API
+- [ ] Develop scrapers for darkweb and clearnet marketplaces
 - [ ] Integrate ThreatFox IOCs feed (https://threatfox.abuse.ch/)
 - [ ] Integrate VX-Underground feed (https://vx-underground.org/)
 - [ ] Integrate Tri.age feed (https://www.tria.ge)
 - [ ] Greynoise integration (https://greynoise.io/)
-- [ ] Tweak Ransomwatch
+- [ ] Tweak Ransomwatch by [captainGeech42](https://github.com/captainGeech42/ransomwatch)
 - [ ] Frontend
 ## Authors
 
