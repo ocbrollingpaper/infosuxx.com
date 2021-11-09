@@ -5,7 +5,7 @@
 		justify-content: center;
 		align-items: center;
         height: 4rem;
-
+		text-align: center;
         background-color: #121212;
 	}
 
@@ -15,7 +15,7 @@
 
 	@media (min-width: 480px) {
 		footer {
-
+			height: 4rem;
 		}
 	}
     p {
@@ -25,5 +25,5 @@
 </style>
 
 <footer>
-    <p>brought to you by <a href="https://twitter.com/imposecost">@marxvolt</a></p>
+    <p>brought to you by <a href="https://twitter.com/marxvolt" target="_blank">@marxvolt</a></p>
 </footer>
