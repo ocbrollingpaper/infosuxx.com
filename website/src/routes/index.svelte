@@ -10,7 +10,7 @@
 <section>
 	<div class="logos">
 		<a href="https://threatfox.abuse.ch/" target="_blank"><img src="/threatfox_logo.png" alt="ThreatFox by abuse.ch"></a>
-		<a href="https://vx-underground.org/" target="_blank"><img src="/background.png" alt="VX Undergroundg"></a>
+		<a href="https://vx-underground.org/" target="_blank"><img src="/vxunderground_logo.png" alt="VX Undergroundg"></a>
 		<a href="https://greynoise.io/" target="_blank"><img src="/greynoise_logo.png" alt="Greynoise.io"></a>
 		<a href="https://tria.ge/" target="_blank"><img src="/triage_logo.png" alt="Tria.ge"></a>
 	</div>
