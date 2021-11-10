@@ -18,6 +18,7 @@ This is work in progress.
 - [ ] Greynoise integration (https://greynoise.io/)
 - [ ] Tweak Ransomwatch by [captainGeech42](https://github.com/captainGeech42/ransomwatch)
 - [ ] Frontend
+- [ ] Build Credential Checker
 ## Authors
 
 - [@ocbrollingpaper](https://www.github.com/ocbrollingpaper)

@@ -9,9 +9,8 @@
 	--secondary-color: #03DAC6;
 	--tertiary-color: #edf0f8;
 	--accent-color: #03DAC6;
-	--error-color: #CF6679;
-	--heading-color: rgba(255, 255, 255, 0.7);
-	--text-color: #ffffff;
+	--heading-color: rgb(255, 255, 255);
+	--text-color: #444444;
 	--background-without-opacity: rgba(255, 255, 255, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -65,7 +64,8 @@ h1 {
 }
 
 h2 {
-	font-size: 1rem;
+	font-size: 1.5rem;
+	text-align: center;
 }
 
 pre {
