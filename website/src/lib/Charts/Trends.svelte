@@ -18,7 +18,6 @@
 						labels: chartLabels,
                         fill: fill,
 						datasets: [{
-								label: 'Targets',
 								backgroundColor: 'rgb(187, 134, 252)',
 								borderColor: 'rgb(255, 255, 255)',
                                 color: 'rgb(255, 255, 255)',
