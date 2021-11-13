@@ -42,17 +42,92 @@
 				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
 			RansomwareGroup: 'Revil',
 			Link: '#'
-		}
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
+		{
+			id: '1',
+			title: 'kkona2',
+			description: 'ransom blyat ransom blyat',
+			imageUrl:
+				'https://raw.githubusercontent.com/ocbrollingpaper/infosuxx.com/main/assets/logo.png',
+			RansomwareGroup: 'Revil',
+			Link: '#'
+		},
 	];
 </script>
-
-<main>
-	<Sidebar />
-	<Header />
-	<div class="flex">
-		<Ransom />
+<Sidebar />
+<Header />
+<div class="container mx-auto p-20">
+	<main>
+	<div class="grid grid-cols-4 gap-10 mx-auto content-start">
+		{#each ransom as ransoms}
+			<Ransom title={ransoms.title} description={ransoms.description} imageUrl={ransoms.imageUrl} RansomwareGroup={ransoms.RansomwareGroup} Link={ransoms.Link} />
+		{/each}
 	</div>
 </main>
+</div>
 <slot />
 
 <Footer />
@@ -64,7 +139,7 @@
 		flex-direction: column;
 		width: 100%;
 		max-width: 100%;
-		margin: 0 auto;
+		margin: 0;
 		box-sizing: border-box;
 	}
 </style>
