@@ -6,10 +6,9 @@
 <svelte:head>
 	<title>infosuxx</title>
 </svelte:head>
-
 <section>
+	<h1>TEST</h1>
 </section>
-
 <style>
 	section {
 		display: flex;

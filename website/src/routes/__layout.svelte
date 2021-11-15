@@ -117,29 +117,11 @@
 		},
 	];
 </script>
-<Sidebar />
 <Header />
-<div class="container mx-auto p-20">
-	<main>
-	<div class="grid grid-cols-4 gap-10 mx-auto content-start">
-		{#each ransom as ransoms}
-			<Ransom title={ransoms.title} description={ransoms.description} imageUrl={ransoms.imageUrl} RansomwareGroup={ransoms.RansomwareGroup} Link={ransoms.Link} />
-		{/each}
-	</div>
-</main>
-</div>
+<Sidebar />
 <slot />
 
 <Footer />
 
 <style>
-	main {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-		width: 100%;
-		max-width: 100%;
-		margin: 0;
-		box-sizing: border-box;
-	}
 </style>
